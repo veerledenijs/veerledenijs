@@ -1,3 +1,5 @@
+[srr8480619_1_test.fastq _fastqc.zip](https://github.com/veerledenijs/veerledenijs/files/9020410/srr8480619_1_test.fastq._fastqc.zip)
+[srr8480619_2_test.fastq _fastqc.zip](https://github.com/veerledenijs/veerledenijs/files/9020414/srr8480619_2_test.fastq._fastqc.zip)
 SAMPLES = ['SRR8480619']
 
 rule fastqc:
