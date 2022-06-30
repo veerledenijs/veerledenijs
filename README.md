@@ -94,8 +94,9 @@ shell:
 
 			
 rule blast:
-        input:
-	             "/mnt/studentfiles/2022/2022MBI_10/Project/7.Trintiy/trinity.Trinity.fasta"
+            input:
+		       
+	                 "/mnt/studentfiles/2022/2022MBI_10/Project/7.Trintiy/trinity.Trinity.fasta"
 		     
 output:
 
