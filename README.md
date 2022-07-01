@@ -1,11 +1,3 @@
-[statsTrinity.txt](https://github.com/veerledenijs/veerledenijs/files/9021101/stats.txt)
-
-[blast_32.txt](https://github.com/veerledenijs/veerledenijs/files/9021153/blast_32.txt)
-[blast_32_min500.txt](https://github.com/veerledenijs/veerledenijs/files/9021154/blast_32_min500.txt)
-[blast_32_min1000.txt](https://github.com/veerledenijs/veerledenijs/files/9021155/blast_32_min1000.txt)
-
-[srr8480619_1_test.fastq _fastqc.zip](https://github.com/veerledenijs/veerledenijs/files/9020410/srr8480619_1_test.fastq._fastqc.zip)
-[srr8480619_2_test.fastq _fastqc.zip](https://github.com/veerledenijs/veerledenijs/files/9020414/srr8480619_2_test.fastq._fastqc.zip)
 
 SAMPLES = ['SRR8480619']
 
